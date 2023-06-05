@@ -3,6 +3,8 @@
 
 In development by zTirom
 
+With an External configuration from a Panel Web.
+
 You can buy this anticheat in **Discord**:
 
 **discord.gg/battleac** 
