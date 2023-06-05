@@ -41,19 +41,19 @@ discord.gg/battleac
 * Known server trigger exploits protected
 
 **Shoot protections**
-* Checks if player has a specific weapon when shooting
+* Checks if Player has a specific Weapon when Shooting
 
 **Camera protections**
-* Freecam detection
+* Freecam Detection
 
 **Game event protections**
-* Anti exploisions
-* Anti particles
-* Anti clear task events
-* Anti give weapons to other players
-* Anti remove weapons from other players
-* Anti give all weapons to other playerrs
-* Anti remove all weapons from other players
+* Anti Explosions
+* Anti Particles
+* Anti Clear Task Events
+* Anti Give weapons to Other Players
+* Anti Remove weapons from Other Players
+* Anti Give all Weapons to Other Playerrs
+* Anti Remove all Weapons from Other Players
 
 **Entity protections**
 * Vehicle spawn detection
@@ -64,10 +64,10 @@ discord.gg/battleac
 * Advanced heartbeat system
 
 **Special features**
-* Global ban system
-* Discord logs
-* Interactive ban screen
-* Advanced console debugs
-* Protecting player identifiers (saving bans in encrypted file)
+* Global Ban System
+* Discord Logs
+* Interactive Ban Screen
+* Advanced Console Debugs
+* Protecting Player Identifiers (saving bans in encrypted file)
 * Standalone
-* Hardware ID bans
+* Hardware ID BANS
