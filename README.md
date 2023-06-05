@@ -1,5 +1,6 @@
 # Battle Anti-Cheat #
 ![image](https://github.com/rdopaa/Battle-Anti-Cheat/assets/131190297/628fc114-328c-460d-8a2b-0cfe3c6aaa70)
+
 In development by zTirom
 
 You can buy this anticheat in **Discord**:
