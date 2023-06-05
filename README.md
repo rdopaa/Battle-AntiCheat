@@ -1,4 +1,4 @@
-# :logo1transparent: Battle Anti-Cheat
+# Battle Anti-Cheat #
 
 You can buy this anticheat in discord:
 discord.gg/battleac 
