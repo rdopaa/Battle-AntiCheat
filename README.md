@@ -1,10 +1,10 @@
 # Battle Anti-Cheat #
+![image](https://github.com/rdopaa/Battle-Anti-Cheat/assets/131190297/628fc114-328c-460d-8a2b-0cfe3c6aaa70)
 
 You can buy this anticheat in discord:
 discord.gg/battleac 
 
 ![image](https://github.com/rdopaa/Battle-Anti-Cheat/assets/131190297/ba9988a9-04b6-4977-8c8a-ac3c56b54777)
-![image](https://github.com/rdopaa/Battle-Anti-Cheat/assets/131190297/a71a2b4f-a931-40be-a45c-add2d7a46ef2)
 
 **Features**
 * Internal cheat detections Eulen
